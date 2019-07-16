@@ -22,6 +22,6 @@ urls = list(map(lambda obj: obj.get('href'), json_data))
 
 for url in urls:
     result = parse_url(url)
-    if (result)
+
 
 
